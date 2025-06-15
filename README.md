@@ -44,11 +44,6 @@ A simple yet effective **Line Following Robot** project built using Arduino. Thi
 4. Place it on a track and watch it follow the line.
 
 
-## 📚 Learn More
-
-- [Arduino IR Sensor Guide](https://lastminuteengineers.com/ir-sensor-arduino-tutorial/)
-- [L293D Motor Driver Tutorial](https://components101.com/l293d-motor-driver)
-
 ## 🧑‍💻 Author
 
 **Nikita Kapadiya**  
